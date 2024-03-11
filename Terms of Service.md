@@ -100,18 +100,21 @@ If You have any concern or dispute about the Service, You agree to first try to 
 # For European Union (EU) Users
 If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in.
 
-United States Legal Compliance
+# United States Legal Compliance
 You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
-Severability and Waiver
-Severability
+
+# Severability and Waiver
+## Severability
 If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
 
-
-Waiver
+## Waiver
 Except as provided herein, the failure to exercise a right or to require performance of an obligation under these Terms shall not affect a party's ability to exercise such right or require such performance at any time thereafter nor shall the waiver of a breach constitute a waiver of any subsequent breach.
-Translation Interpretation
+
+# Translation Interpretation
+
 These Terms and Conditions may have been translated if We have made them available to You on our Service. You agree that the original English text shall prevail in the case of a dispute.
-Employee Agreement
+
+# Employee Agreement
 As an employee of RamWorks, You have the right to retire at any moment.
 By signing up to be an employee of RamWorks Development Group, You agree to the following:
 You must make edits to a RamWorks product at least every 2 months.
@@ -121,7 +124,8 @@ If You do not agree to these guidelines, Your right as an employee will be revok
 Owner/Co-Owner Agreement
 As a(n) (co)owner of RamWorks, You have the right to retire at any moment. You have the final authority. You have the ability to, after retiring, continue owning any subsidiary or product of RamWorks (Individual websites/doc). If not one individual is owning Your product of choice, You have the right to claim it as your own after further contact with RamWorks.
 As a co-owner of RamWorks, You reserve the right to the position of owner, if the owner has retired.
-Rules
+
+# Rules
 By using an asset of RamWorks Development Group, you agree to the following:
 RamWorks Development Group users are solely responsible for their actions on any RamWorks Development Group asset, including proxies. Any illegal or harmful activity will be attributed to the user and may result in disciplinary action, up to and including permanent banning. This includes pornography and sacrilegious content. You are held accountable for anything stupid you do on a proxy, and it is not any administrator at RamWorks Development Group's fault for your idiocy. 
 Using a proxy or site that has been disabled by RamWorks Development Group, or distributing sites or files to any other non-partnership without credit is extremely prohibited. Users who engage in this activity may be subject to disciplinary action, up to and including permanent banning.
@@ -130,12 +134,15 @@ Warning: A warning is a notification that a user has violated the terms of servi
 Suspension: A suspension is a temporary ban from using RamWorks Development Group. Suspensions may be issued for more serious violations, such as posting pornography or hacking into enemy documents.
 Permanent banning: A permanent ban is a permanent expulsion from RamWorks Development Group. Permanent bans are reserved for the most serious violations, such as engaging in illegal activity or causing significant harm to the RamWorks Development Group community. 
 The specific disciplinary action that will be taken in any given case will depend on the severity of the violation and the user's history of compliance with the terms of service. RamWorks Development Group reserves the right to take any other action that it deems appropriate. We are not responsible for any trouble this service may or may not get You in.
-Changes to These Terms and Conditions
+
+# Changes to These Terms and Conditions
 We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
 By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
-Credit Towards Third-Parties
+
+# Credit Towards Third-Parties
 By using the Service, You agree to any other Terms of Service that other third-parties use. We will give credit to any other third-parties that are used in this Service.
-Asset Agreement
+
+# Asset Agreement
 You have the right to create a service, and have it become a part of RamWorks.
 To do this, you must do the following, in this order:
 Create your document or link. Websites are preferred to be hosted on Google Sites.
@@ -147,7 +154,8 @@ Add the RamWorks copyright text into the footer or bottom of your document or we
 Notify the current owner of RamWorks that you want to create an asset. Copy this text and send it into the owner’s email, replacing text in brackets:
 I have created a hopeful asset of RamWorks Development Group. This can be found at [add link here]. I agree to the RamWorks Terms Of Service.
 Wait for your response (1-2 business days).
-Partnership Agreement
+
+# Partnership Agreement
 By being a partner of RamWorks or its products, You agree to the following terms:
 Your doc/website is high quality (see above).
 You will not start any wars/rivalries (playful or friendly rivalries are permitted for marketing) with other partners or assets without approval from the owner of RamWorks.
@@ -165,6 +173,7 @@ Partnership may be stopped at any moment, and all confidential information shall
 By breaking any of these regulations, Your partnership will be immediately terminated.
 By having an extensive history of breaking these guidelines, Your partnership will be immediately terminated.
 You will follow these Terms of Service at all times.
+
 # Contact Us
 If you have any questions about these Terms and Conditions, You can contact us:
 By email:
@@ -174,9 +183,6 @@ Thealt@skiff.com
 Thealt@gmx.com 
 By Discord:
 Yesn’t: @polarexpresskid_
-theshmnguss1: @TheRealShmunguss_
-
-
-
+theshmnguss1: @theshmunguss1_
 
 Keep in mind that us creators are just middle school students. We do not want to punish anyone if necessary.
