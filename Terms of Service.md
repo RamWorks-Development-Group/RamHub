@@ -6,7 +6,7 @@ Ram Networks and any subsequent aliases are a subsidiary of RamWorks Development
 
 Terms and Conditions
 
-Last updated: March 5, 2024
+Last updated: March 11, 2024
 
 Please read these terms and conditions carefully before using Our Service.
 
@@ -144,34 +144,60 @@ By using the Service, You agree to any other Terms of Service that other third-p
 
 # Asset Agreement
 You have the right to create a service, and have it become a part of RamWorks.
+
 To do this, you must do the following, in this order:
-Create your document or link. Websites are preferred to be hosted on Google Sites.
-Ensure that your product is high-quality. This includes:
-Minimal spelling mistakes
-High-quality images, text, proper grammar, etc.
-No controversy (racism, sexism, homophobia, etc.)
-Add the RamWorks copyright text into the footer or bottom of your document or website.
-Notify the current owner of RamWorks that you want to create an asset. Copy this text and send it into the owner’s email, replacing text in brackets:
-I have created a hopeful asset of RamWorks Development Group. This can be found at [add link here]. I agree to the RamWorks Terms Of Service.
-Wait for your response (1-2 business days).
+
+1. Create your document or link. Websites are preferred to be hosted on Google Sites.
+
+2. Ensure that your product is high-quality. This includes:
+
+3. Minimal spelling mistakes
+
+4. High-quality images, text, proper grammar, etc.
+
+5. No controversy (racism, sexism, homophobia, etc.)
+
+6. Add the RamWorks copyright text into the footer or bottom of your document or website.
+
+7. Notify the current owner of RamWorks that you want to create an asset. Copy this text and send it into the owner’s email, replacing text in brackets:
+
+8. I have created a hopeful asset of RamWorks Development Group. This can be found at [add link here]. I agree to the RamWorks Terms Of Service.
+
+9. Wait for your response (1-2 business days).
 
 # Partnership Agreement
 By being a partner of RamWorks or its products, You agree to the following terms:
+
 Your doc/website is high quality (see above).
+
 You will not start any wars/rivalries (playful or friendly rivalries are permitted for marketing) with other partners or assets without approval from the owner of RamWorks.
+
 You will not use hate speech or promote violence/hatred towards any group of individuals at any moment.
+
 You will not make any monetary gain from your service.
+
 You may spend money to put towards your service, but only your service.
+
 A minimum of (1) ad must be placed in your service promoting RamWorks or its products.
+
 You will not let any enemies or rivals of RamWorks in your staff.
+
 You will be immediately accepted as an admin in the service you partnered with - or RamWorks itself.
+
 Large changes such as revamps, chat rooms/Discord servers or others will be shared with RamWorks before their public launch.
+
 Information explicitly marked as confidential may never be shared or leaked.
+
 Ensure that, if your product was created via a Google service (Docs, Sites, Sheets, etc.), it is not restricted. 
+
 You can do this by selecting the blue Share button, then “General Access”, then change “Restricted” to “Anyone with the link”. After this, make sure the permissions are set to “Viewer”. After you are finished with these steps, your Share page should look like this:
+
 Partnership may be stopped at any moment, and all confidential information shall be returned to RamWorks.
+
 By breaking any of these regulations, Your partnership will be immediately terminated.
+
 By having an extensive history of breaking these guidelines, Your partnership will be immediately terminated.
+
 You will follow these Terms of Service at all times.
 
 # Contact Us
