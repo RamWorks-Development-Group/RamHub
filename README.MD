@@ -2,7 +2,11 @@
 #saveRamNetworks!!!!!
 ## ANNOUNCEMENTS
 
-ISNO has completed and all signatures have been taken into account. Thanks to all signers who have made the proxy doc business safer.
+ISNO has completed and all signatures have been taken into account. Thanks to all signers* who have made the proxy doc business safer.
+
+*Yesn’t, Luger359, theshmunguss1, Grim, nnnnnnidre, Mohamed Robow, Ywu tech,  ABA, Frog, LJwolf, Herobrine, Gremlin, Joel, and Cayson
+
+
 
 ## About us!
 
@@ -13,3 +17,10 @@ Main releases will be posted in the Releases tab, so make sure to filter them wi
 RamWorks projects less frequently updated will be posted in the main branch. Small updates or announcements may be posted in the readme.
 
 Maybe some other projects will start their own repositories, so this one will be strictly Ram Networks. If you own a project, please do this!
+
+
+## About The Creators!
+
+Yesn't: Co-Founder and Co-Owner of RamWorks Development Group
+
+TheShmungus1: (Add Summary Here)
