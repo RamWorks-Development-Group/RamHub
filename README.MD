@@ -21,6 +21,6 @@ Maybe some other projects will start their own repositories, so this one will be
 
 ## About The Creators!
 
-Yesn't: Co-Founder and Co-Owner of RamWorks Development Group
+Yesn't: Co-Founder and Co-Owner of RamWorks Development Group!
 
-TheShmungus1: (Add Summary Here)
+theshmunguss1: Founder and Owner of RamWorks Development Group!
