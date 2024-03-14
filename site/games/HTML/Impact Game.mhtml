@@ -1,0 +1,44 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://impactjs.com/demos/physics/
+Subject: Impact Game
+Date: Thu, 14 Mar 2024 14:12:20 -0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ByU5QObnx5ww6a8Fgkv170jQ4pKCUOWGXNhvCUVcDN----"
+
+
+------MultipartBoundary--ByU5QObnx5ww6a8Fgkv170jQ4pKCUOWGXNhvCUVcDN----
+Content-Type: text/html
+Content-ID: <frame-A72950998134AF5D13E94E10071D553A@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://impactjs.com/demos/physics/
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D=
+"cid:css-df0e33fd-f4f8-49b0-9518-5b284a208d75@mhtml.blink" />
+	<title>Impact Game</title>
+=09
+
+=09
+</head>
+<body>
+	<canvas id=3D"canvas" width=3D"640" height=3D"480" style=3D"image-renderin=
+g: -webkit-optimize-contrast;"></canvas>
+
+
+</body></html>
+------MultipartBoundary--ByU5QObnx5ww6a8Fgkv170jQ4pKCUOWGXNhvCUVcDN----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-df0e33fd-f4f8-49b0-9518-5b284a208d75@mhtml.blink
+
+@charset "utf-8";
+
+html, body { background-color: rgb(0, 0, 0); color: rgb(255, 255, 255); fon=
+t-family: helvetica, arial, sans-serif; margin: 0px; padding: 0px; font-siz=
+e: 12pt; }
+
+#canvas { position: absolute; inset: 0px; margin: auto; border: 1px solid r=
+gb(85, 85, 85); }
+------MultipartBoundary--ByU5QObnx5ww6a8Fgkv170jQ4pKCUOWGXNhvCUVcDN------
