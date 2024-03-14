@@ -4,7 +4,7 @@
 
 ISNO has completed and all signatures have been taken into account. Thanks to all signers* who have made the proxy doc business safer.
 
-*Yesn’t, Luger359, theshmunguss1, Grim, nnnnnnidre, Mohamed Robow, Ywu tech,  ABA, Frog, LJwolf, Herobrine, Gremlin, Joel, and Cayson
+*Yesn’t, Luger359, theshmunguss1, Grim, nnnnnnidre, Mohamed Robow, Ywu tech,  ABA, Frog, LJwolf, Herobrine, Gremlin, and Joel
 
 
 
