@@ -1,4 +1,8 @@
-![alt text](https://raw.githubusercontent.com/theshmunguss1/RamHub/main/docs/ramworks/imgs/image4%20(1).png "Logo Title Text 1")
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/theshmunguss1/RamHub/blob/main/docs/ramworks/imgs/image1.png?raw=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/theshmunguss1/RamHub/blob/main/docs/ramworks/imgs/image1.png?raw=true">
+ <img alt="logo" src="https://github.com/theshmunguss1/RamHub/blob/main/docs/ramworks/imgs/image1.png?raw=true">
+</picture>
 
 # Welome to RamHub!
 #saveRamNetworks!!!!!
