@@ -26,6 +26,6 @@ Maybe some other projects will start their own repositories, so this one will be
 
 
 ## About The Creators!
-**theshmunguss1:** Founder and Owner of RamWorks Development Group!
+**__theshmunguss1:__** Founder and Owner of RamWorks Development Group!
 
-**Yesn't:** Co-Founder and Co-Owner of RamWorks Development Group!
+**__Yesn't:__** Co-Founder and Co-Owner of RamWorks Development Group!
