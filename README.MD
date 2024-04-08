@@ -26,13 +26,6 @@ Maybe some other projects will start their own repositories, so this one will be
 
 
 ## About The Creators!
-
-Yesn't: Co-Founder and Co-Owner of RamWorks Development Group!
-
 theshmunguss1: Founder and Owner of RamWorks Development Group!
 
-## What We're Up To!
-
-I (Yesn't) Am currently taking a javascript coding course in order to possibly make a site hosted right here on GitHub!
-I'm also working on coding an HTML version of Undertale, A PSP emulator, and some Newsletters for Ramworks!
-
+Yesn't: Co-Founder and Co-Owner of RamWorks Development Group!
