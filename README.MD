@@ -9,9 +9,7 @@
 #saveRamNetworks!!!!!
 ## ANNOUNCEMENTS
 
-ISNO has completed and all signatures have been taken into account. Thanks to all signers* who have made the proxy doc business safer.
-
-*Yesn’t, Luger359, theshmunguss1, Grim, nnnnnnidre, Mohamed Robow, Ywu tech,  ABA, Frog, LJwolf, Herobrine, Gremlin, and Joel
+RamWorks is currently in the early process of developing a web operating system titled RamOS (name tenative). As previously stated, we are in very early stages of development. Please do not expect it to release for quite some time, but stay tuned for future updates.
 
 
 
