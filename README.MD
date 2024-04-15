@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/theshmunguss1/RamHub/blob/main/docs/ramworks/imgs/image1.png?raw=true">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/theshmunguss1/RamHub/blob/main/docs/ramworks/imgs/image1.png?raw=true">
