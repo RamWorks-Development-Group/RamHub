@@ -49,6 +49,22 @@
     .github-button:hover {
       background-color: #555;
     }
+
+    .youtube-button {
+      display: inline-block;
+      padding: 12px 24px;
+      background-color: #ff0000;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 4px;
+      font-size: 18px;
+      transition: background-color 0.3s ease;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .youtube-button:hover {
+      background-color: #ff3333;
+    }
     
     .tab {
       display: inline-block;
@@ -103,6 +119,44 @@
     .about-us-content {
       margin-top: 40px;
     }
+    
+    /* Visual Enhancements */
+    .logo img {
+      filter: brightness(120%);
+    }
+    
+    .github-button, .youtube-button {
+      margin-right: 10px;
+    }
+    
+    .github-button:hover, .youtube-button:hover {
+      transform: scale(1.05);
+    }
+    
+    .github-button:active, .youtube-button:active {
+      transform: scale(0.95);
+    }
+    
+    .github-button, .youtube-button, .tab {
+      cursor: pointer;
+    }
+    
+    .youtube-button {
+      background-color: #ff0000;
+      color: #fff;
+    }
+    
+    .youtube-button:hover {
+      background-color: #ff3333;
+    }
+    
+    .about-us-heading {
+      color: #800080;
+    }
+    
+    .about-us p {
+      color: #333;
+    }
   </style>
   <script>
     function showContent(tabId) {
@@ -121,25 +175,28 @@
 </head>
 <body>
   <div class="logo">
-    <img src="image1.png" alt="Logo" width="600">
+    <img src="image1.png" alt="Logo" width="600" height="200">
   </div>
-  <h1>Website Under Construction</h1>
-  <p>We are currently working on our website. Please check back later!</p>
-  <a class="github-button" href="https://github.com/RamWorks-Development-Group/RamHub" target="_blank">Visit GitHub</a>
-  <a class="youtube-button" href="https://www.youtube.com/@8_bit_youtuber" target="_blank">Visit YouTube</a>
-  .youtube-button {
-  display: inline-block;
-  padding: 12px 24px;
-  background-color: #ff0000;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 4px;
-  font-size: 18px;
-  transition: background-color 0.3s ease;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-}
-
-.youtube-button:hover {
-  background-color: #ff3333;
-}
-
+  <h1>Welcome to our Website!</h1>
+  <p>We are currently under construction, but stay tuned for updates.</p>
+  <div class="social-buttons">
+    <a href="https://github.com" class="github-button">GitHub</a>
+    <a href="https://youtube.com" class="youtube-button">YouTube</a>
+  </div>
+  <div class="tabs">
+    <span class="tab active" onclick="showContent('home')">Home</span>
+    <span class="tab" onclick="showContent('about')">About Us</span>
+  </div>
+  <div id="home-content" class="content active">
+    <h2>Welcome to our Home Page!</h2>
+    <p>Here you will find all the latest updates and news about our company.</p>
+  </div>
+  <div id="about-content" class="content">
+    <div class="about-us">
+      <h2 class="about-us-heading">About Us</h2>
+      <p>We are a team of passionate individuals dedicated to creating amazing websites.</p>
+      <p>Our goal is to provide high-quality web solutions that meet our clients' needs.</p>
+    </div>
+  </div>
+</body>
+</html>
