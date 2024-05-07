@@ -49,7 +49,47 @@
     .github-button:hover {
       background-color: #555;
     }
+    
+    .tab {
+      display: inline-block;
+      margin: 0 10px;
+      font-size: 24px;
+      color: #333;
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
+    
+    .tab:hover {
+      color: #555;
+    }
+    
+    .active {
+      color: #555;
+    }
+    
+    .content {
+      display: none;
+      margin-top: 40px;
+    }
+    
+    .content.active {
+      display: block;
+    }
   </style>
+  <script>
+    function showContent(tabId) {
+      var tabs = document.getElementsByClassName('tab');
+      var contents = document.getElementsByClassName('content');
+      
+      for (var i = 0; i < tabs.length; i++) {
+        tabs[i].classList.remove('active');
+        contents[i].classList.remove('active');
+      }
+      
+      document.getElementById(tabId).classList.add('active');
+      document.getElementById(tabId + '-content').classList.add('active');
+    }
+  </script>
 </head>
 <body>
   <div class="logo">
@@ -58,5 +98,26 @@
   <h1>Website Under Construction</h1>
   <p>We are currently working on our website. Please check back later!</p>
   <a class="github-button" href="https://github.com/RamWorks-Development-Group/RamHub" target="_blank">Visit GitHub</a>
+  
+  <div>
+    <a class="tab" href="#" onclick="showContent('theshmungus1')">Theshmungus1</a>
+    <a class="tab" href="#" onclick="showContent('djshelfmushroom')">DJShelfmushroom</a>
+    <a class="tab" href="#" onclick="showContent('yesnt')">Yesn't</a>
+  </div>
+  
+  <div id="theshmungus1-content" class="content">
+    <h2>Theshmungus1</h2>
+    <p>About Theshmungus1...</p>
+  </div>
+  
+  <div id="djshelfmushroom-content" class="content">
+    <h2>DJShelfmushroom</h2>
+    <p>About DJShelfmushroom...</p>
+  </div>
+  
+  <div id="yesnt-content" class="content">
+    <h2>Yesn't</h2>
+    <p>About Yesn't...</p>
+  </div>
 </body>
 </html>
