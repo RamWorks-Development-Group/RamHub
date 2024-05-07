@@ -5,34 +5,32 @@
   <style>
     @font-face {
       font-family: 'Press Start 2P';
-      src: url('PressStart2P-Regular.ttf') format('truetype');
-      font-weight: normal;
-      font-style: normal;
+      src: url('PreesStart2P-Regular.ttf') format('truetype');
     }
-    
+
     body {
       background-color: #f2f2f2;
       font-family: 'Press Start 2P', Arial, sans-serif;
       text-align: center;
       padding-top: 100px;
     }
-    
+
     h1 {
       font-size: 36px;
       color: #333;
       margin-bottom: 20px;
     }
-    
+
     p {
       font-size: 18px;
       color: #666;
       margin-bottom: 40px;
     }
-    
+
     .logo {
       margin-bottom: 40px;
     }
-    
+
     .github-button {
       display: inline-block;
       padding: 12px 24px;
@@ -44,7 +42,7 @@
       transition: background-color 0.3s ease;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
     }
-    
+
     .github-button:hover {
       background-color: #555;
     }
@@ -60,11 +58,11 @@
       transition: background-color 0.3s ease;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
     }
-    
+
     .youtube-button:hover {
       background-color: #ff3333;
     }
-    
+
     .tab {
       display: inline-block;
       margin: 0 10px;
@@ -73,106 +71,63 @@
       text-decoration: none;
       transition: color 0.3s ease;
     }
-    
+
     .tab:hover {
       color: #555;
     }
-    
+
     .active {
       color: #555;
     }
-    
+
     .content {
       display: none;
       margin-top: 40px;
     }
-    
+
     .content.active {
       display: block;
     }
-    
+
     /* New CSS for the About Us section */
     .about-us {
       margin-top: 60px;
     }
-    
+
     .about-us h2 {
       font-size: 28px;
       color: #333;
       margin-bottom: 10px;
     }
-    
+
     .about-us p {
       font-size: 16px;
       color: #666;
       margin-bottom: 20px;
     }
-    
+
     /* Additional CSS modifications */
     .about-us-heading {
       font-size: 24px;
       color: #333;
       margin-bottom: 20px;
     }
-    
+
     .about-us-content {
       margin-top: 40px;
     }
-    
-    /* Visual Enhancements */
-    .logo img {
-      filter: brightness(120%);
-    }
-    
-    .github-button, .youtube-button {
-      margin-right: 10px;
-    }
-    
-    .github-button:hover, .youtube-button:hover {
-      transform: scale(1.05);
-    }
-    
-    .github-button:active, .youtube-button:active {
-      transform: scale(0.95);
-    }
-    
-    .github-button, .youtube-button, .tab {
-      cursor: pointer;
-    }
-    
-    .youtube-button {
-      background-color: #ff0000;
-      color: #fff;
-    }
-    
-    .youtube-button:hover {
-      background-color: #ff3333;
-    }
-    
-    .about-us-heading {
-      color: #800080;
-    }
-    
-    .about-us p {
-      color: #333;
-    }
   </style>
   <script>
-    function showContent(tabId) {
-      var tabs = document.getElementsByClassName('tab');
-      var contents = document.getElementsByClassName('content');
-      
-      for (var i = 0; i < tabs.length; i++) {
-        tabs[i].classList.remove('active');
-        contents[i].classList.remove('active');
-      }
-      
-      document.getElementById(tabId).classList.add('active');
-      document.getElementById(tabId + '-content').classList.add('active');
-    }
+    /* Existing JavaScript code */
   </script>
 </head>
 <body>
-  ...
+  <div class="logo">
+    <img src="image1.png" alt="Logo" width="600">
+  </div>
+  <h1>Website Under Construction</h1>
+  <p>We are currently working on our website. Please check back later!</p>
+  <a class="github-button" href="https://github.com/RamWorks-Development-Group/RamHub" target="_blank">Visit GitHub</a>
+  <a class="youtube-button" href="https://www.youtube.com/@8_bit_youtuber" target="_blank">Visit YouTube</a>
 </body>
 </html>
