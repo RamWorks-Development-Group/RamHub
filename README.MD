@@ -8,6 +8,7 @@
 # Welome to RamHub!
 #saveRamNetworks!!!!!
 ## ANNOUNCEMENTS
+We Just added a new Ram Networks Update and A new logo, you'll see it soon
 
 RamWorks is currently in the early process of developing a web operating system titled <a href="https://github.com/theshmunguss1/RamOS">RamOS</a> (name tenative). As previously stated, we are in very early stages of development. Please do not expect it to release for quite some time, but stay tuned for future updates. Please contribute to it with a pull request of you wish! We appreciate any help you can provide.
 
